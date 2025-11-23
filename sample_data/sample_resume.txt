@@ -1,0 +1,10 @@
+Veerendra Thogiti
+Email: thogitiveerendra5@gmail.com
+Summary:
+Aspiring Machine Learning Engineer with hands-on experience in Python, Pandas, NumPy, scikit-learn and basic NLP.
+Projects:
+- Built a resume parser and job matching tool using TF-IDF and cosine similarity. Tools: Python, scikit-learn, Streamlit.
+- Salary prediction model using Random Forest.
+Skills: Python, Pandas, NumPy, scikit-learn, Flask, Streamlit, Git
+Education:
+B.Tech in Computer Science

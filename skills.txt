@@ -1,0 +1,42 @@
+Python
+Java
+SQL
+C++
+C#
+JavaScript
+React
+Node.js
+Django
+Flask
+Spring
+AWS
+Azure
+Docker
+Kubernetes
+Machine Learning
+Deep Learning
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+PyTorch
+NLP
+Natural Language Processing
+HTML
+CSS
+REST API
+GraphQL
+TypeScript
+Git
+CI/CD
+Linux
+Pandas
+Data Analysis
+ETL
+Spark
+Hadoop
+MySQL
+MongoDB
+Redis
+Tableau
+Power BI
