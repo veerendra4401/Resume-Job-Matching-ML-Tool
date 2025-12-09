@@ -13,13 +13,6 @@
 This project is a simple yet powerful **Machine Learning + NLP-based tool** that measures how well a **resume matches a job description**.  
 It helps job seekers improve their resumes and helps recruiters identify suitable candidates faster.
 
-Perfect project for:  
-✔ Freshers  
-✔ Python developers  
-✔ ML enthusiasts  
-✔ NLP beginners  
-✔ Resume builders / ATS tools  
-
 ---
 
 # ✨ Features
@@ -197,3 +190,4 @@ MIT License — free to use and modify.
 
 # ⭐ If you like this project, give it a star on GitHub!
 Your support motivates creation of more beginner-friendly ML/NLP tools.  
+
